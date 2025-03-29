@@ -13,6 +13,6 @@
 1. Clone the repository
 2. Run `composer install`
 3. Run `npm install`
-4. Create and configure environment `.env` file. Run `cp .env.example .env`. then Run `php artisan key:generate`
+4. Create and configure environment `.env` file. Run `cp .env.example .env` then Run `php artisan key:generate`
 5. Run migrations and seeders: `php artisan migrate --seed`
 6. For Deployment Run `npm run dev`
