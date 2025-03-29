@@ -10,7 +10,7 @@
 
 ### Setup Instructions
 
-1. Clone the repository
+1. Clone the repository. Run `git clone https://github.com/saifulnizam91/product-inventory.git`
 2. Run `composer install`
 3. Run `npm install`
 4. Create and configure environment `.env` file. Run `cp .env.example .env` then Run `php artisan key:generate`
